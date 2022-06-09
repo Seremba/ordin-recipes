@@ -1,0 +1,18 @@
+.ordin-recipes{
+   background-color: red;
+   color: whitesmoke;
+   text-align: center;
+   font-size: 70px;
+   font-style: italic;
+}
+.recipe-list{
+    background-color: aliceblue;
+}
+.recipe-item {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 300;
+    list-style: none;
+    text-decoration: none;
+    padding: 20px;
+}
